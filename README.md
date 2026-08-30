@@ -1,5 +1,9 @@
 # Student Pass/Fail Prediction Using Neural Network
 
+[![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)](https://www.tensorflow.org/)
+[![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-red)](https://keras.io/)
+
 ## 📌 Project Overview
 
 This project uses a **Neural Network** to predict whether a student will **Pass or Fail** based on academic, study, and lifestyle-related factors.
