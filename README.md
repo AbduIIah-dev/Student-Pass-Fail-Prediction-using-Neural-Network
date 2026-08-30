@@ -172,3 +172,17 @@ Through this project, I learned:
 ## ✅ Conclusion
 
 This project demonstrates the complete workflow of developing a Neural Network for a binary classification problem. The model achieved approximately **87% test accuracy** and showed similar training, validation, and testing performance, indicating that the model generalizes reasonably well to unseen data.
+
+## 📈 Model Performance
+
+### Training vs Validation Accuracy
+
+![Accuracy Curve](images/accuracy_curve.png)
+
+### Training vs Validation Loss
+
+![Loss Curve](images/loss_curve.png)
+
+### Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png)
